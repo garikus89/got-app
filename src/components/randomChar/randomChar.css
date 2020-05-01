@@ -1,0 +1,17 @@
+.random-block {
+    background-color: #fff;
+    height: 350px;
+    width: 445px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    /* padding: 25px 25px 15px 25px; */
+    margin-bottom: 40px;
+}
+.random-block h4 {
+    margin-bottom: 20px;
+    text-align: center;
+}
+.term {
+    font-weight: bold;
+}
